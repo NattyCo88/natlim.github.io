@@ -18,6 +18,24 @@ I am an industrial engineer working in the semiconductor space and trying to be 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
+## Projects
+
+### Project One
+- **Description:** A leading agri-tech company, AgroTech Innovations, faces significant challenges in optimizing crop yields
+and resource management due to inefficiencies in their controlled environment farming systems.
+Despite having advanced sensor technologies, the company seeks to enhance its operational efficiency
+and support future research and development initiatives.
+As a machine learning engineer at AgroTech Innovations, you are tasked with developing machine
+learning models to address these challenges. Your goal is to create models to predict the temperature
+conditions within the farm's closed environment, ensuring optimal plant growth. Additionally, you will
+develop models to categorize the combined "Plant Type-Stage" based on sensor data, aiding in
+strategic planning and resource allocation.
+By implementing these models, you will help AgroTech Innovations improve crop management,
+optimize resource usage, and increase yield predictability. These efforts will not only enhance current
+operations but also provide valuable insights for future agricultural innovations.
+- **Technologies:** Python, Jupyter Notebook
+- **Link:** [GitHub Repository](https://github.com/NattyCo88/Agrotech-Innovations-Machine-Learning-Project)
+
 
 ### Socials
 
