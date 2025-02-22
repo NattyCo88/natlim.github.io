@@ -21,23 +21,27 @@ I am an industrial engineer working in the semiconductor space and trying to be 
 ## Projects
 
 ### Project #1
+
+![Project Banner](https://github.com/NattyCo88/Agrotech-Innovations-Machine-Learning-Project/blob/83a002c3f01180ed888cc153f595e449e800ef49/Crops%20and%20AI.jpeg)
+
 - **Background:** A leading agri-tech company, AgroTech Innovations, faces significant challenges in optimizing crop yields
-and resource management due to inefficiencies in their controlled environment farming systems.
-Despite having advanced sensor technologies, the company seeks to enhance its operational efficiency
-and support future research and development initiatives.
+  and resource management due to inefficiencies in their controlled environment farming systems.
+  Despite having advanced sensor technologies, the company seeks to enhance its operational efficiency
+  and support future research and development initiatives.
 
 - **Objective:** As a machine learning engineer at AgroTech Innovations, you are tasked with developing machine
-learning models to address these challenges. Your goal is to create models to predict the temperature
-conditions within the farm's closed environment, ensuring optimal plant growth. Additionally, you will
-develop models to categorize the combined "Plant Type-Stage" based on sensor data, aiding in
-strategic planning and resource allocation.
+  learning models to address these challenges. Your goal is to create models to predict the temperature
+  conditions within the farm's closed environment, ensuring optimal plant growth. Additionally, you will
+  develop models to categorize the combined "Plant Type-Stage" based on sensor data, aiding in
+  strategic planning and resource allocation.
 
-By implementing these models, you will help AgroTech Innovations improve crop management,
-optimize resource usage, and increase yield predictability. These efforts will not only enhance current
-operations but also provide valuable insights for future agricultural innovations.
+  By implementing these models, you will help AgroTech Innovations improve crop management,
+  optimize resource usage, and increase yield predictability. These efforts will not only enhance current
+  operations but also provide valuable insights for future agricultural innovations.
 
 - **Technologies:** Python, Jupyter Notebook
 - **Link:** [GitHub Repository](https://github.com/NattyCo88/Agrotech-Innovations-Machine-Learning-Project)
+
 
 
 ### Socials
